@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Launch a powerful Shopify ecommerce store with expert SEO optimization and seamless fulfillment services. Transform your online business with Noyaroma.
+
+### About
+https://example.com/about
+Discover how Noyaroma combines Shopify expertise with cutting-edge SEO strategies to elevate ecommerce brands. Meet the team behind your growth.
+
+### Ritual Guide
+https://example.com/ritual-guide
+Follow our proven ritual guide for launching and optimizing your Shopify ecommerce website. Step-by-step strategies for SEO success and fulfillment excellence.
+
+### Contact
+https://example.com/contact
+Ready to launch your ecommerce website? Connect with Noyaroma for expert Shopify development, SEO optimization, and fulfillment solutions tailored to you.
+
+### Products
+https://example.com/products
+Our Products - Noyaroma
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Noyaroma
+
+### Category
+https://example.com/category/:slug
+Products - Noyaroma
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
